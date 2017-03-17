@@ -1,0 +1,6 @@
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\Lesson2_ValueVSReferenceTypes\bin\Debug\Lesson2_ValueVSReferenceTypes.exe.config
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\Lesson2_ValueVSReferenceTypes\bin\Debug\Lesson2_ValueVSReferenceTypes.exe
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\Lesson2_ValueVSReferenceTypes\bin\Debug\Lesson2_ValueVSReferenceTypes.pdb
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\Lesson2_ValueVSReferenceTypes\obj\Debug\Lesson2_ValueVSReferenceTypes.csprojResolveAssemblyReference.cache
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\Lesson2_ValueVSReferenceTypes\obj\Debug\Lesson2_ValueVSReferenceTypes.exe
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\Lesson2_ValueVSReferenceTypes\obj\Debug\Lesson2_ValueVSReferenceTypes.pdb

@@ -1,0 +1,6 @@
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\Lesson4_task4\bin\Debug\Lesson4_task4.exe.config
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\Lesson4_task4\bin\Debug\Lesson4_task4.exe
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\Lesson4_task4\bin\Debug\Lesson4_task4.pdb
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\Lesson4_task4\obj\Debug\Lesson4_task4.exe
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\Lesson4_task4\obj\Debug\Lesson4_task4.pdb
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\Lesson4_task4\obj\Debug\Lesson4_task4.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\Hometasks\bin\Debug\Hometasks.exe.config
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\Hometasks\bin\Debug\Hometasks.exe
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\Hometasks\bin\Debug\Hometasks.pdb
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\Hometasks\obj\Debug\Lesson1.csprojResolveAssemblyReference.cache
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\Hometasks\obj\Debug\Hometasks.exe
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\Hometasks\obj\Debug\Hometasks.pdb

@@ -1,0 +1,6 @@
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\Lesson3_Conditions\bin\Debug\Lesson3_Conditions.exe.config
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\Lesson3_Conditions\bin\Debug\Lesson3_Conditions.exe
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\Lesson3_Conditions\bin\Debug\Lesson3_Conditions.pdb
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\Lesson3_Conditions\obj\Debug\Lesson3_Conditions.csprojResolveAssemblyReference.cache
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\Lesson3_Conditions\obj\Debug\Lesson3_Conditions.exe
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\Lesson3_Conditions\obj\Debug\Lesson3_Conditions.pdb

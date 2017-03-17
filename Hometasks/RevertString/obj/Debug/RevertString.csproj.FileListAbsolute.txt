@@ -1,0 +1,6 @@
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\RevertString\bin\Debug\RevertString.exe.config
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\RevertString\bin\Debug\RevertString.exe
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\RevertString\bin\Debug\RevertString.pdb
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\RevertString\obj\Debug\RevertString.exe
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\RevertString\obj\Debug\RevertString.pdb
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\RevertString\obj\Debug\RevertString.csprojResolveAssemblyReference.cache

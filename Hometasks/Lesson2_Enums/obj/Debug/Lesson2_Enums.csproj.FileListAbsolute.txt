@@ -1,0 +1,6 @@
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\Lesson2_Enums\bin\Debug\Lesson2_Enums.exe.config
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\Lesson2_Enums\bin\Debug\Lesson2_Enums.exe
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\Lesson2_Enums\bin\Debug\Lesson2_Enums.pdb
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\Lesson2_Enums\obj\Debug\Lesson2_Enums.csprojResolveAssemblyReference.cache
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\Lesson2_Enums\obj\Debug\Lesson2_Enums.exe
+C:\Users\Myroslava_Konko\Source\.Net MP\mp\Hometasks\Lesson2_Enums\obj\Debug\Lesson2_Enums.pdb
